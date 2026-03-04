@@ -1,6 +1,0 @@
-My first file
-hello
-hello from the new branch: commit 2
-hello
-hello ancora 
-ciao
